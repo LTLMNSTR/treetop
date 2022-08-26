@@ -31,7 +31,7 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Tips & Trick",
+      "name_category": "Tips and Trick",
       "image": "file:///android_asset/image/keteranganTIPSTRICK.png"
     },
     {
@@ -58,7 +58,7 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Tips & Trick",
+      "name_category": "Tips and Trick",
       "title": "5 Tips for Playing Stumble Guys to Win More Often",
       "image": "https://ia601408.us.archive.org/9/items/stmblgysgd/stmblgysguide1.jpg",
       "description": "Tips & Trick",
