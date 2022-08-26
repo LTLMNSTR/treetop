@@ -87,6 +87,14 @@
       "image": "https://ia601408.us.archive.org/9/items/stmblgysgd/stmblgysguide5.jpg",
       "description": "Guide",
       "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Information",
+      "title": "Stumble Guys Map Guide - The Best Tips and Tricks for Winning Every Round",
+      "image": "https://ia601408.us.archive.org/9/items/stmblgysgd/stmblgysguide2.jpg",
+      "description": "Information",
+      "link": ""
     }
   ]
 }
